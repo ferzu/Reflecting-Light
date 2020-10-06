@@ -1,7 +1,7 @@
 ### Solution
 
 Ray_trace.py -> I propagated vectors under the given conditions. Formulas below.
----
+
 
 ## Reflecting Light
 *By: Tonylicoding, codewars.com*
