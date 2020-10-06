@@ -1,6 +1,6 @@
 ### Solution
 
-I propagated vectors under the given conditions.
+I propagated vectors under the given conditions. Formulas below.
 
 ### Reflecting Light
 *By: Tonylicoding, codewars.com*
@@ -10,6 +10,10 @@ Four mirrors are placed in a way that they form a rectangle with corners at coor
 Here is an image of the light being reflected:
 
 ![ReflectingLightExample](https://user-images.githubusercontent.com/34451029/94936521-a3a1dc00-04ce-11eb-848f-9766c5dfe5ce.jpg)
+
+### Formulas:
+
+![Formulas-reflection](https://user-images.githubusercontent.com/34451029/95213780-7bc4b800-07ef-11eb-8d71-30401bf7aba3.jpg)
 
 
 
