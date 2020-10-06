@@ -2,7 +2,7 @@
 
 Ray_trace.py -> I propagated vectors under the given conditions. Formulas below.
 
-### Reflecting Light
+## Reflecting Light
 *By: Tonylicoding, codewars.com*
 
 Four mirrors are placed in a way that they form a rectangle with corners at coordinates (0, 0), (max_x, 0), (0, max_y), and (max_x, max_y). A light ray enters this rectangle through a hole at the position (0, 0) and moves at an angle of 45 degrees relative to the axes. Each time it hits one of the mirrors, it gets reflected. In the end, the light ray hits one of the rectangle's corners, and flies out. Your function must determine whether the exit point is either (0, 0) or (max_x, max_y). If it is either (0, 0) or (max_x, max_y), return True, and False otherwise.
