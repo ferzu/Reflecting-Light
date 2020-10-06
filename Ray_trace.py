@@ -1,4 +1,5 @@
-# Finding exit points, vectorial.
+# Finding exit points -> exit = True if ray hits (0,0) or (max_x, max_y), False otherwhise. 
+# Box edges: (max_x, max_y)
 
 import math
 def get_reflected_vector(head, tail, max_x, max_y):
