@@ -1,6 +1,6 @@
 ### Solution
 
-I used a vectorial approach (ray trace) and propagated vectors under the given conditions.
+I propagated vectors under the given conditions.
 
 ### Reflecting Light
 *By: Tonylicoding, codewars.com*
